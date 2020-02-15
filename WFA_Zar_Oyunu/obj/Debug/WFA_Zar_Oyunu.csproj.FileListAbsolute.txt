@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\bin\Debug\WFA_Zar_Oyunu.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\bin\Debug\WFA_Zar_Oyunu.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\bin\Debug\WFA_Zar_Oyunu.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\6.Ders Ödevi\WFA_Zar_Oyunu\WFA_Zar_Oyunu\obj\Debug\WFA_Zar_Oyunu.pdb
